@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shop Đồng Hồ</title>
+
+    <link rel="stylesheet" href="bài.css">
+    
+    </style>
+</head>
+
+<body>
+    <div class="menu">
+        <ul>
+            <li><a href="#">TRANG CHỦ</a></li>
+            <li><a href="#">GIỚI THIỆU</a></li>
+            <li><a href="#">ĐỒNG HỒ NAM</a></li>
+            <li><a href="#">ĐỒNG HỒ NỮ</a></li>
+            <li><a href="#">LIÊN HỆ</a></li>
+            <li><a href="#">GIỎ HÀNG</a></li>
+        </ul>
+    </div>
+    <h2 class="title">Sản phẩm bán chạy</h2>
+    <div class="product-list">
+        <div class="product">
+            <div class="sale">-29%</div>
+
+            <img src="ảnh/images (1).jpg" alt="Đồng hồ">
+
+            <div class="info">
+                <h3>Classico 01</h3>
+
+                <p>
+                    <span class="old-price">7000 đ</span>
+                    <span class="new-price">5000 đ</span>
+                </p>
+
+                <a href="#" class="btn">THÊM VÀO GIỎ</a>
+            </div>
+        </div>
+        <div class="product">
+            <div class="sale">-29%</div>
+
+            <img src="ảnh/images (2).jpg" alt="Đồng hồ">
+
+            <div class="info">
+                <h3>Classico 02</h3>
+
+                <p>
+                    <span class="old-price">7000 đ</span>
+                    <span class="new-price">5000 đ</span>
+                </p>
+
+                <a href="#" class="btn">THÊM VÀO GIỎ</a>
+            </div>
+        </div>
+        <div class="product">
+            <div class="sale">-29%</div>
+
+            <img src="ảnh/images (3).jpg" alt="Đồng hồ">
+
+            <div class="info">
+                <h3>Classico 03</h3>
+
+                <p>
+                    <span class="old-price">7000 đ</span>
+                    <span class="new-price">5000 đ</span>
+                </p>
+
+                <a href="#" class="btn">THÊM VÀO GIỎ</a>
+            </div>
+        </div>
+        <div class="product">
+            <div class="sale">-29%</div>
+
+            <img src="ảnh/images(4).jpg" alt="Đồng hồ">
+
+            <div class="info">
+                <h3>Classico 04</h3>
+
+                <p>
+                    <span class="old-price">7000 đ</span>
+                    <span class="new-price">5000 đ</span>
+                </p>
+
+                <a href="#" class="btn">THÊM VÀO GIỎ</a>
+            </div>
+        </div>
+
+    </div>
+
+</body>
+</html>
